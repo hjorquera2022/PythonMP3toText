@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonMP3toText", "PythonMP3toText.pyproj", "{1B140482-2F9D-44FD-A4D7-8FAA580F1D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B140482-2F9D-44FD-A4D7-8FAA580F1D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B140482-2F9D-44FD-A4D7-8FAA580F1D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDD9BDCC-E022-4290-A353-75F182D3FB28}
+	EndGlobalSection
+EndGlobal
